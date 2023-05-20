@@ -8,7 +8,7 @@ The method is pseudo manual because it uses the algorithm [watershed marked](htt
 
 Example :
 
-<img src="https://raw.githubusercontent.com/abreheret/PixelAnnotationTool/master/images_test/Abbey_Road.jpg" width="300"/> <img src="https://raw.githubusercontent.com/abreheret/PixelAnnotationTool/master/images_test/Abbey_Road_color_mask.png" width="300"/>
+<img src="https://raw.githubusercontent.com/jankozik/QuickAnnotationTool/master/images_test/Abbey_Road.jpg" width="300"/> <img src="https://raw.githubusercontent.com/jankozik/QuickAnnotationTool/master/images_test/Abbey_Road_color_mask.png" width="300"/>
 
 Little example from an user ([tenjumh](https://github.com/tenjumh/Pixel-Annotation-Tool)) of PixelAnnotationTools : https://www.youtube.com/watch?v=tX-xcg5wY4U
 
@@ -21,15 +21,6 @@ Little example from an user ([tenjumh](https://github.com/tenjumh/Pixel-Annotati
 * For Windows Compiler : Works under Visual Studio >= 2015
 
 How to build go to [here](scripts_to_build)
-
-### Download binaries :
-Go to release [page](https://github.com/jankozik/QuickAnnotationTool/releases)
-
-### Donate :
-If you like, donate !
-
-
-Donating is very simple - and secure. Please click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8K79VKWBS7352) to make a donation. 
 
 **Thank you!**
 
