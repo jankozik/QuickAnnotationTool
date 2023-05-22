@@ -8,7 +8,7 @@ The method is pseudo manual because it uses the algorithm [watershed marked](htt
 
 Example :
 
-<img src="https://raw.githubusercontent.com/jankozik/QuickAnnotationTool/master/images_test/Abbey_Road.jpg" width="300"/> <img src="https://raw.githubusercontent.com/jankozik/QuickAnnotationTool/master/images_test/Abbey_Road_color_mask.png" width="300"/>
+<img src="https://raw.githubusercontent.com/jankozik/QuickAnnotationTool/master/images_test/Abbey_Road.jpg" width="350"/> <img src="https://raw.githubusercontent.com/jankozik/QuickAnnotationTool/master/images_test/Abbey_Road_color_mask.png" width="350"/>
 
 Little example from an user ([tenjumh](https://github.com/tenjumh/Pixel-Annotation-Tool)) of PixelAnnotationTools : https://www.youtube.com/watch?v=tX-xcg5wY4U
 
